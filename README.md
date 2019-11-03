@@ -1,2 +1,4 @@
 # AR_Jump_Game
-AR Project that jump 
+This is an AR project using Unity Engine & Vuforia. To test, you need Vuforia Sample Image. 
+
+######Have a great day!
